@@ -20,7 +20,7 @@ p {
 .container {
     display: flex;
     justify-content: center;
-    margin: 100px 300px;
+    margin: 25px 300px;
 }
 
 .card1,
